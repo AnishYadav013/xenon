@@ -5,6 +5,7 @@ flask_mysqldb
 python
 
 A database must be created of the site:
+You must update your user and password in the app.py file for the database.
 MySQL Database-
 
 ![image](https://github.com/AnishYadav013/xenon/assets/92182291/62d60af9-436e-4138-ba64-c132d7399fc3)
